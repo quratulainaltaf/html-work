@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    gap: 2%;
+    background-color: coral;
+    height: 500px;
+    padding: 45px;
+    
+}
+
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+}
+.container .firstClass{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+}
+img{
+    height: 160px;
+    width: 370px;
+    border: 5px solid white;
+}
+
+.container .secondClass{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+}
+

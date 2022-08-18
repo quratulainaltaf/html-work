@@ -1,0 +1,61 @@
+.firstClass {
+    width: 100%;
+    display: flex;
+    /* gap: 20px; */
+}
+.divFirst{
+    background-color: beige;
+    width: 33.33%;
+    height: 170px;
+}
+.divSecond{
+    background-color: blueviolet;
+    width: 33.33%;
+    height: 170px;
+}
+.divThird{
+    background-color: brown;
+    width: 45%;
+    height: 170px;
+}
+.secondClass {
+    width: 100%;
+    display: flex;
+    /* gap: 20px; */
+}
+.divFirst1{
+    background-color:aqua;
+    width: 33.33%;
+    height: 170px;
+}
+.divSecond2{
+    background-color: black;
+    width: 33.33%;
+    height: 170px;
+}
+.divThird3{
+    background-color: pink;
+    width: 45%;
+    height: 170px;
+}
+
+.thirdClass {
+    width: 100%;
+    display: flex;
+    /* gap: 20px; */
+}
+.divFirst4{
+    background-color: red;
+    width: 33.33%;
+    height: 170px;
+}
+.divSecond5{
+    background-color: orange;
+    width: 33.33%;
+    height: 170px;
+}
+.divThird6{
+    background-color: purple;
+    width: 45%;
+    height: 170px;
+}

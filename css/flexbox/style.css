@@ -1,0 +1,13 @@
+.flex-container{
+     display: flex;
+     border: 2px solid grey;
+     height: 45vh;
+     flex-direction: row-reverse;
+}
+.flex-items{
+    background-color: blue;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: blueviolet;
+    width: 100%;  
+
+}
+.container ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 50px;
+}
+
+.container ul li{
+    padding: 15px 20px;
+    font-size: 15px;
+    color: chartreuse;
+    text-align: center;
+}
+.mobile_toggle{
+    display: none;
+}
+
+@media screen and (max-width: 560px) {
+    .mobile_toggle {
+      display: block;
+    }
+    .container ul li {
+      display: none;
+    }
+  }

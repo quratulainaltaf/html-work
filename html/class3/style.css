@@ -1,0 +1,16 @@
+.container{
+     color: blue;
+     background-color:aquamarine;
+}
+.wrraper1{
+    background-color: bisque;
+    width: 50%;
+}
+.wrraper2{
+    background-color: azure;
+    width: 30%;
+}
+.wrraper3{
+    background-color: antiquewhite;
+    width: 30%;
+}

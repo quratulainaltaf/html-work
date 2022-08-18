@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    text-transform: capitalize;
+
+}
+
+li:hover{
+    transform: translateY(-5px);
+}
